@@ -1,3 +1,7 @@
+## [1.2.3](https://github.com/tvbondar/git-extended/compare/v1.0.0...v1.2.3) (2025-02-24)
+
+
+
 # 1.0.0 (2025-02-24)
 
 
